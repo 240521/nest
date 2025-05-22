@@ -22,8 +22,7 @@ node_modules/
 [._]sw[a-p]
 
 # bundle
-packages/**/*.d.ts
-packages/**/*.js
+
 
 # misc
 .DS_Store
